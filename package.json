@@ -1,0 +1,19 @@
+{
+  "name": "notebot",
+  "version": "1.0.0",
+  "description": "Note taking app with AI assistance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
