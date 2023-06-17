@@ -2,7 +2,7 @@
   "name": "notebot",
   "version": "1.0.0",
   "description": "Note taking app with AI assistance",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
